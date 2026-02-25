@@ -1,0 +1,2 @@
+# PalindroneCheckerApp
+App development
